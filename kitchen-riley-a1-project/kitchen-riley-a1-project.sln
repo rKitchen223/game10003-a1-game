@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitchen-riley-a1-project", "kitchen-riley-a1-project.csproj", "{412CF5DF-0F83-40B3-B328-C8A3F1BC985C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412CF5DF-0F83-40B3-B328-C8A3F1BC985C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412CF5DF-0F83-40B3-B328-C8A3F1BC985C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412CF5DF-0F83-40B3-B328-C8A3F1BC985C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412CF5DF-0F83-40B3-B328-C8A3F1BC985C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61FB70B6-8BBB-4F1D-BA52-4E8B16502FFB}
+	EndGlobalSection
+EndGlobal
